@@ -6,7 +6,7 @@
  *********************************/
 /* give each element a border */
 * {
-    border: 1px solid mediumvioletred;
+    border: 0px solid mediumvioletred;
 }
 
 /* shrink images for placement */
@@ -56,7 +56,7 @@ h1 {
 }
 
 /*********************************
- * Header
+ * Header (NOT WORKING!)
  *********************************/
  header {
     width: 90%;
